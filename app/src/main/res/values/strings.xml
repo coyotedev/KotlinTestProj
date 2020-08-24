@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestProj</string>
+    <string name="apiDomain">https://jsonplaceholder.typicode.com/</string>
+    <string name="postView_titleText"><![CDATA[<b><font color=#FF0000>Title:</font></b>]]> %s</string>
+    <string name="postView_bodyText"><![CDATA[<b><font color=#0000FF>Body:</font></b>]]> %s</string>
+    <string name="mainActivity_swipeToRefreshText">Swipe down to refresh...</string>
+    <string name="viewComment_nameText"><![CDATA[<b><font color=#00FFFF>Name:</font></b>]]> %s</string>
+    <string name="viewComment_emailText"><![CDATA[<b><font color=#00FFFF>Email:</font></b>]]> %s</string>
+    <string name="viewComment_bodyText"><![CDATA[<b><font color=#00FFFF>Body:</font></b>]]>\n%s</string>
+</resources>
